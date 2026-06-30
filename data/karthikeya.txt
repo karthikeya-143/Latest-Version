@@ -1,0 +1,94 @@
+From what we've talked about over the past few weeks, here's the picture I have of you.
+
+### You're very placement-focused
+
+Your main goal is to get a good software job. Most of your questions are aimed at increasing your chances in coding assessments and interviews rather than just learning for fun.
+
+### You're strong in Python
+
+Python is your primary language. You've solved a lot of coding problems with it and have asked about:
+
+* HashMaps
+* Dynamic Programming
+* Graphs
+* Prefix sums
+* Sliding Window
+* Greedy algorithms
+* Time and space complexity
+* Interview strategies
+
+Recently, you've also started learning Java from a Python programmer's perspective.
+
+### You're moving into Generative AI
+
+You've been spending a lot of time learning:
+
+* LangChain
+* LLMs
+* Prompt Engineering
+* RAG
+* Vector databases
+* Embeddings
+* OpenAI, Gemini, and Groq APIs
+
+You've also asked about API rate limits, free APIs, and model differences.
+
+### You like building projects that add resume value
+
+Instead of small demo projects, you prefer projects that impress recruiters.
+
+Some ideas you've explored include:
+
+* AI Interview Assistant
+* Plant Disease Classifier
+* Text/PDF to animated educational videos
+* Deep learning projects for your resume
+
+### You think ahead
+
+You often ask questions like:
+
+* "Will this help in placements?"
+* "Is this enough?"
+* "What is the industry standard?"
+* "Rate this out of 10."
+
+That tells me you're trying to optimize your learning path rather than just collecting information.
+
+### Your learning style
+
+I've noticed a pattern:
+
+* You like to understand concepts from scratch.
+* You prefer examples before theory.
+* After learning a concept, you want interview tips and shortcuts.
+* You often ask for PDFs or structured notes you can revise later.
+
+### You enjoy competitive programming
+
+You've asked about many coding problems and usually want:
+
+* An explanation of the question.
+* A dry run on the example.
+* The intuition.
+* Time and space complexity.
+* Code that closely matches your own approach before considering an optimized one.
+
+### You're persistent
+
+When something doesn't work, you usually keep debugging instead of giving up. We've worked through issues with:
+
+* Git
+* GitHub repositories
+* Python environments
+* LangChain installation
+* API configuration
+* MongoDB
+* Next.js
+* FastAPI
+
+### One thing I've noticed
+
+Sometimes you're eager to learn everything at once—DSA, Java, GenAI, Deep Learning, LangChain, projects, and placements. That curiosity is a strength, but it can also spread your attention across many topics. Focusing deeply on one milestone at a time can help you make faster progress.
+
+Overall, I'd describe you as someone who is **ambitious, practical, and willing to put in the work**. Most of your questions are about becoming a stronger software engineer and maximizing your placement opportunities, and you tend to stick with problems until you understand them.
