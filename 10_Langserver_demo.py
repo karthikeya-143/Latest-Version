@@ -19,7 +19,7 @@ system_template="Translate the following into {language}:"
 prompt_template = ChatPromptTemplate.from_messages(
     [
         ("system", system_template),
-        ("user", "{text}"),
+        ("user", "{text}") ,
     ]
 )
 chain=prompt_template|llmModel|parser
